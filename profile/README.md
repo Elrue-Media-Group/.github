@@ -5,6 +5,10 @@ Builds AI-powered QA tooling, learning content, and modern web apps.<br/>
 <a href="https://elruemediagroup.com">Website</a> • <a href="https://github.com/Elrue-Media-Group">GitHub</a> • <a href="https://www.linkedin.com/in/tony-cerrato-a22a123">LinkedIn</a>
 </p>
 
+<p align="center">
+<em>Elrue Media Group is the personal and hobby development space of <strong>Tony Cerrato</strong> — showcasing AI, QA, and web engineering projects.</em>
+</p>
+
 ---
 
 ### What we do
